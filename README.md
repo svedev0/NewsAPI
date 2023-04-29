@@ -1,4 +1,4 @@
-# News API
+# 📰 News API
 
 This Python script retrieves news articles via the NewsAPI.
 
@@ -9,7 +9,7 @@ pip install newsapi
 ```
 
 Create a configuration file called `config.ini` with the following content:
-```
+```ini
 [API]
 KEY = thisismyapikey
 ```
